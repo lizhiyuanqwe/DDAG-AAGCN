@@ -1,3 +1,10 @@
+## DDAG-AAGCN
+
+  ```bash
+python  train_aagcn.py  --adjacency_method attention
+```
+
+
 # DDAG
 Pytorch Code of DDAG for Visible-Infrared Person Re-Identification in ECCV 2020. [PDF](https://arxiv.org/pdf/2007.09314.pdf)
 
